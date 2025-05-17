@@ -1,0 +1,18 @@
+MatchID,inning,batter,bowler,batsman_run,total_run
+1,1,BB McCullum,Zaheer Khan,4,4
+1,1,BB McCullum,Zaheer Khan,6,6
+1,1,BB McCullum,Zaheer Khan,2,2
+2,2,MS Dhoni,Lasith Malinga,1,1
+2,2,MS Dhoni,Lasith Malinga,2,2
+2,2,MS Dhoni,Lasith Malinga,4,4
+3,1,Shane Watson,RP Singh,1,1
+3,1,Shane Watson,RP Singh,6,6
+3,2,Adam Gilchrist,Shane Warne,4,4
+4,1,David Hussey,Harbhajan Singh,4,4
+4,1,David Hussey,Harbhajan Singh,6,6
+5,1,Rahul Dravid,RP Singh,1,1
+6,1,Matthew Hayden,Siddhart Trivedi,6,6
+7,1,MS Dhoni,Lasith Malinga,1,1
+8,1,Virat Kohli,Shane Watson,4,4
+9,2,Gautam Gambhir,Amit Mishra,6,6
+10,2,Rohit Sharma,Albie Morkel,6,6
